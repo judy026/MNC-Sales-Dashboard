@@ -142,19 +142,23 @@ SUMX(
 **Geographic Performance :**
 - North America and South Asia are top-performing regions
 - 7 global regions with consistent 15-20% YoY growth
+
 **Revenue Brerakdown :**
 - Total Sales : $15.53M (latest quarter)
 - Average Order Value : $135.03K
 - 115 orders across 43 customers
+
 **Product Analysis :**
 - Software category generates highest revenue
 - Enterprise Suite Annual License is #1 product ($43.65M)
 - Profit margins range from 36-80% across product lines
+
 **Customer Insights :**
 - Corporate customers : 33.33% of revenue
 - Retail customers : 33.33% of revenue
 - Wholesale customers : 33.33% of revenue
 - Top customer : Bangalore Tech Solutions ($8.9M)
+
 **Sales Team :**
 - 20 sales representatives tracked
 - Total commission : $742.20K
