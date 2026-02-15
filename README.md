@@ -1,7 +1,7 @@
 # MNC Global Sales Analytics Dashboard
-
 An end-to-end  business intelligence solution analyzing $50M+ in sales across 7 global regions, built with Power BI and MySQL.
 
+<img width="2074" height="1164" alt="image" src="https://github.com/user-attachments/assets/c60f347f-cd6a-43d1-b683-85556c40e9e0" />
 
 ---
 
